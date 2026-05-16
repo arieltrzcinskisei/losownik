@@ -1,0 +1,2 @@
+# losownik
+Losowanie liczb
